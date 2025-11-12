@@ -1,2 +1,5 @@
-# HTMLBASICSTRUCTURE
-TRYING TO SHOW THE  BASICS(skeleton of a webpage)  of  the HYPERTEXT MARKUP LANGUAGE (html) 
+# html
+
+HYPERTEXT MARKUP LANGUAGE (html) 
+A walkthrough of html using this repo
+
